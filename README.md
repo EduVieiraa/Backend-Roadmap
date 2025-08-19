@@ -4,9 +4,9 @@
 Este repositório foi criado para documentar meu aprendizado em **desenvolvimento backend** com foco no **mercado financeiro e fintechs**.
 
 ## Meu Plano de Estudos
-- 📅 **Estudo 5 vezes por semana**
-- ⏳ **2 horas por dia**
-- 🛠️ **Ferramentas principais:** Python, FastAPI, Django, PostgreSQL, Docker, GitHub.
+- **Estudo 5 vezes por semana**
+- **2 horas por dia**
+- **Ferramentas principais:** Python, FastAPI, Django, PostgreSQL, Docker, GitHub.
 
 ## 📖 Objetivo
 Meu objetivo é sair do **zero** e me tornar um **desenvolvedor backend júnior** especializado no setor financeiro, criando projetos práticos e aprendendo com desafios reais.
