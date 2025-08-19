@@ -1,9 +1,9 @@
-# 🚀 Meu Roadmap para Backend Fintech
+# Meu Roadmap para Backend
 
-## 📌 Sobre este projeto
+## Sobre este projeto
 Este repositório foi criado para documentar meu aprendizado em **desenvolvimento backend** com foco no **mercado financeiro e fintechs**.
 
-## 📅 Meu Plano de Estudos
+## Meu Plano de Estudos
 - 📅 **Estudo 5 vezes por semana**
 - ⏳ **2 horas por dia**
 - 🛠️ **Ferramentas principais:** Python, FastAPI, Django, PostgreSQL, Docker, GitHub.
@@ -11,17 +11,18 @@ Este repositório foi criado para documentar meu aprendizado em **desenvolviment
 ## 📖 Objetivo
 Meu objetivo é sair do **zero** e me tornar um **desenvolvedor backend júnior** especializado no setor financeiro, criando projetos práticos e aprendendo com desafios reais.
 
-## 📦 O que já configurei:
-- ✅ Instalei Python no meu Mac
-- ✅ Instalei VS Code
-- ✅ Configurei Git e GitHub
-- ✅ Instalei Docker e Postman
+## TODOS:
+- [x] Conta no Github
+- [x] Instalei VS Code
+- [x] Configurei minha conta Github com 2FA
+- [x] Criei um repositório novo
 
-## 📍 Próximos Passos
-- Aprender os fundamentos do Python aplicados ao backend.
-- Criar minha primeira API usando FastAPI.
-- Integrar bancos de dados e otimizar consultas.
 
-👨‍💻 **Acompanhe meu progresso neste repositório!**
+## Próximos Passos
+- [] Concluir curso de certificação GitHub dio.
+- [] Concluir curso de algoritimo DIO para afiar ainda mais o machado.
+- [] Concluir modulos 6 e 7 curso Django Udemy.
+
+**Acompanhe meu progresso neste repositório!**
 
 # Backend-Roadmap
