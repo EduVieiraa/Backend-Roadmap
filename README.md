@@ -1,15 +1,15 @@
 # Meu Roadmap para Backend
 
 ## Sobre este projeto
-Este repositório foi criado para documentar meu aprendizado em **desenvolvimento backend** com foco no **mercado financeiro e fintechs**.
+Este repositório foi criado para documentar meu aprendizado em **desenvolvimento backend** 
 
 ## Meu Plano de Estudos
 - **Estudo 5 vezes por semana**
 - **2 horas por dia**
 - **Ferramentas principais:** Python, FastAPI, Django, PostgreSQL, Docker, GitHub.
 
-## 📖 Objetivo
-Meu objetivo é sair do **zero** e me tornar um **desenvolvedor backend júnior** especializado no setor financeiro, criando projetos práticos e aprendendo com desafios reais.
+## Objetivo
+Meu objetivo é seguir adquirindo conhecimento em Python e tudo o que ele pode trazer de solução, conhecer frameworks diferentes e assim criar projetos práticos e aprender com desafios reais para além do meu trabalho.
 
 ## TODOS:
 - [x] Conta no Github
